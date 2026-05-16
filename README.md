@@ -1,158 +1,185 @@
-<h1 align="center">👋 Hey there, I'm Somesh J</h1>
-<h3 align="center">Backend Engineer | AI Agents & Automation Engineer | AWS & GCP | Python Developer</h3>
+<h1 align="center">👋 Hey there, I'm Somesh </h1>
+
+<h3 align="center">
+AI Engineer • LLM & AI Agent Developer • Backend Systems Engineer • Cloud & Automation
+</h3>
+
+<p align="center">
+  Building production-grade AI systems, intelligent automation platforms, and scalable backend infrastructure.
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/somesh-j/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://tryhackme.com/p/Astro11">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+
+  <a href="https://github.com/Somesh-J">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
   <a href="mailto:someshj777@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Somesh-J">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+
+  <a href="https://tryhackme.com/p/Astro11">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🧠 About Me
+# 🚀 About Me
 
-Data & Software Engineer building **production-grade backend systems, AI agents, and intelligent automation platforms**.
+AI-focused Software Engineer with experience building:
 
-I specialize in:
+- 🤖 LLM-powered applications
+- 🧠 AI agents & multi-agent workflows
+- ⚡ Intelligent automation systems
+- ☁️ Cloud-native backend infrastructure
+- 🔄 Production-ready APIs & deployment pipelines
 
-- 🚀 Scalable backend APIs using **FastAPI & Flask**
-- 🤖 AI Agents using **Gemini API, OpenAI, LangChain & LangGraph**
-- 📬 Email & Social Media Automation Systems
-- ☁️ Cloud-native deployments on **AWS & GCP**
-- 🔄 CI/CD pipelines with automated deployments
-- 🔐 Secure authentication using **OAuth2 & JWT**
-
-Currently working at **Rise11 Technologies**, engineering AI-powered automation systems that run continuously in production environments.
+Currently working at **Rise11 Technologies**, building AI-driven automation platforms, backend systems, and agentic workflows running in production environments.
 
 ---
 
-## 💼 Professional Experience
+# 💼 Experience
 
-### 🏢 Data & Software Engineer | Rise11 Technologies  
-**June 2024 – Present | Remote**
+## 🏢 Rise11 Technologies — Data & Software Engineer  
+📅 Jun 2024 – Present
 
-### 🔹 Backend & API Engineering
-- Built scalable REST APIs using **FastAPI & Flask**
-- Designed optimized MongoDB schemas on Linux servers
-- Implemented OAuth authentication flows & secure JWT systems
-- Integrated third-party social media APIs
+### 🔹 AI Systems & Automation
+- Built LLM-powered automation platforms using Gemini & OpenAI APIs
+- Engineered context-aware AI workflows for automated communication systems
+- Developed AI agents and workflow orchestration pipelines using LangGraph
+- Designed automation systems that reduce repetitive operational effort
 
-### 🔹 AI Agents & Automation Systems
-- Engineered **AI-powered Email Automation Agent** using Gemini API
-- Built **context-aware auto-reply pipelines** for intelligent email processing
-- Developed **multi-threaded automation bots** with Celery for background scheduling
-- Created **Social Media Automation Agent** for workflow automation
-- Implemented LangChain & LangGraph for LLM orchestration
-- Designed automation systems running 24/7 without downtime
+### 🔹 Backend Engineering
+- Built scalable APIs using FastAPI & Flask
+- Integrated third-party APIs for analytics, email, and social automation
+- Developed production backend services for startup-scale applications
+- Designed secure authentication systems using JWT & OAuth
 
-### 🔹 DevOps & Infrastructure
-- Set up CI/CD pipelines using GitHub Actions
-- Led migration from **AWS to GCP**, improving deployment efficiency
-- Containerized services using Docker
-- Reduced downtime with automated build & deployment pipelines
+### 🔹 Cloud & DevOps
+- Migrated infrastructure from AWS to GCP
+- Built CI/CD pipelines using GitHub Actions & Docker
+- Improved deployment consistency and release workflows
+- Managed Linux-based deployment environments
 
 ---
 
-### 🔐 Cybersecurity Intern | Sense Learner Technologies  
-**Jan 2024 – Mar 2024**
+## 🔐 Cybersecurity Intern — Sense Learner Technologies  
+📅 Jan 2024 – Mar 2024
 
-- Conducted penetration testing using Nessus, Nmap & Burp Suite
-- Generated vulnerability reports with remediation strategies
-- Strengthened practical security expertise via TryHackMe labs
+- Conducted penetration testing using Nmap, Nessus & Burp Suite
+- Identified vulnerabilities aligned with OWASP standards
+- Worked on practical security testing and remediation workflows
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Tech Stack
 
-### 💻 Programming
+## 💻 Languages
 `Python` `JavaScript`
 
-### 🌐 Backend & Frameworks
-`FastAPI` `Flask` `Django` `Next.js`
+## ⚙️ Backend & Frameworks
+`FastAPI` `Flask` `Django` `Node.js`
 
-### 🗄️ Databases
-`MongoDB` `Neo4j` `MySQL` `PostgreSQL`
-
-### 🤖 AI Agents & Automation
-`Gemini API`
+## 🤖 AI Engineering
 `OpenAI API`
+`Gemini API`
 `LangChain`
 `LangGraph`
-`Email Automation Agent`
-`Social Media Automation Agent`
-`Discord.py`
-`Celery`
-`Background Task Scheduling`
+`RAG`
+`Prompt Engineering`
+`AI Agents`
 `LLM Orchestration`
 
-### ☁️ Cloud & DevOps
+## 🗄️ Databases
+`MongoDB`
+`PostgreSQL`
+`MySQL`
+`Neo4j`
+
+## ☁️ Cloud & DevOps
 `AWS`
 `GCP`
 `Docker`
 `GitHub Actions`
-`Linux`
 `CI/CD`
+`Linux`
 
-### 🔐 Security
-`Penetration Testing`
-`OWASP Top 10`
+## 🔐 Security
 `JWT`
 `OAuth`
+`OWASP`
+`Penetration Testing`
 
 ---
 
-## 🚀 Key Projects
+# 🚀 Featured Projects
 
-### 🎓 ZetaLeap – AI-Powered E-Learning Platform
-- Built backend using Flask & MongoDB
-- Developed AI automation microservices using Gemini API
-- Implemented Discord bot for notifications
-- Designed background task scheduling system for automated workflows
+## 📈 GrowthOps — AI-Powered Sales & Marketing Platform
+**FastAPI • LangGraph • MongoDB • AI Agents**
 
-### 🔮 Akashvaani – Intelligent Communication Platform
-- Built backend infrastructure using Flask & MongoDB
-- Developed AI-driven email automation using SendGrid + Gemini API
-
-### 🏥 iTrials – Healthcare Data Processing & AI Assistant
-- Built FastAPI REST APIs for patient data processing
-- Developed AI chatbot using OpenAI API
-- Used Neo4j for graph-based data modeling
-- Deployed using AWS CI/CD pipelines
-
-### 🛡️ Integrity Checker – Security & Malware Detection
-- Built Django application integrating VirusTotal API
-- Designed MySQL schema for threat logging
-- Implemented automated testing suite
+- Built a multi-agent AI system for funnel analysis and optimization
+- Designed AI workflows for acquisition, conversion, and growth insights
+- Implemented human-in-the-loop approval systems
+- Developed AI-driven automated campaign generation workflows
+- Built secure multi-tenant backend architecture
 
 ---
 
-## 🏆 Achievements
+## 📬 AI Email Automation System
+**FastAPI • Gemini API • OpenAI • Docker**
 
-- 🥇 Top 10 Finalist – Bitguard Cybersecurity Hackathon (2000+ participants)
-- 🏆 Aurganon’23 – CTF Winner & Overall Champion
-- 🎓 B.Tech CSE – 9.21 CGPA
+- Built contextual AI-powered email automation workflows
+- Integrated LLM APIs for intelligent response generation
+- Developed analytics and scheduling systems
+- Containerized services using Docker
 
 ---
 
-## 💼 Open To
+## 🏥 ITrials — Healthcare AI Chatbot
+**Flask • FastAPI • OpenAI • Neo4j**
 
-- Backend Engineer Roles
-- AI Agent / Automation Engineer Roles
-- LLM Integration & Orchestration Roles
-- Cloud & API Engineering
-- Freelance Automation Projects
+- Developed AI-powered healthcare assistant workflows
+- Built structured healthcare processing APIs
+- Implemented graph-based healthcare data analysis
+
+---
+
+## 🎓 ZetaLeap — AI Learning Platform
+**Flask • MongoDB • AI Automation**
+
+- Built scalable backend systems for learning workflows
+- Designed AI-powered assignment generation systems
+- Integrated Google Drive APIs for content management
+- Implemented intelligent email notification systems
+- Developed real-time coding evaluation workflows
+
+---
+
+# 🏆 Achievements
+
+- 🥇 Top 10 Finalist — Bitguard Cybersecurity Hackathon (2000+ participants)
+- 🏆 CTF Winner — Aurganon'23
+- 🎓 B.Tech CSE — CGPA: 9.21 / 10
+
+---
+
+# 💼 Open To
+
+- AI Engineer Roles
+- LLM Engineer Roles
+- AI Agent Development
+- Backend & Platform Engineering
+- Automation Engineering
+- Freelance AI Automation Projects
 
 ---
 
 <p align="center">
-  <i>Building intelligent systems. Automating workflows. Shipping production-grade software.</i>
+  <i>
+    Building AI systems • Engineering automation • Shipping production-grade software
+  </i>
 </p>
